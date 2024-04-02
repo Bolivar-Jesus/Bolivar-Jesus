@@ -72,3 +72,16 @@ left: 96%;
 top: 88%;
 
 }
+
+footer {
+
+background-color: black;
+padding: 20px;
+text-align: center;
+}
+
+footer p {
+
+color: white;
+
+}
